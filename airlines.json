@@ -1,0 +1,118 @@
+[{
+		"airport": {
+			"code": "ATL",
+			"name": "Atlanta, GA: Hartsfield-Jackson Atlanta International"
+		},
+		"statistics": {
+			"flights": {
+				"cancelled": 5,
+				"timet": 561,
+				"total": 752,
+				"delayed": 186,
+				"diverted": 0
+			},
+			"ofdelays": {
+				"lateaircraft": 18,
+				"weather": 28,
+				"security": 2,
+				"nationalaviationsystem": 105,
+				"carrier": 34
+			},
+			"minutesdelayed": {
+				"lateaircraft": 1269,
+				"weather": 1722,
+				"carrier": 1367,
+				"security": 139,
+				"total": 8314,
+				"nationalaviationsystem": 3817
+			}
+		},
+		"timet": {
+			"label": "2003/6",
+			"year": 2003,
+			"month": 6
+		},
+		"carrier": {
+			"code": "AA",
+			"name": "American Airlines Inc."
+		}
+	},
+	{
+		"airport": {
+			"code": "BOS",
+			"name": "Boston, MA: Logan International"
+		},
+		"statistics": {
+			"flights": {
+				"cancelled": 7,
+				"timet": 1034,
+				"total": 1266,
+				"delayed": 225,
+				"diverted": 0
+			},
+			"ofdelays": {
+				"lateaircraft": 46,
+				"weather": 24,
+				"security": 2,
+				"nationalaviationsystem": 84,
+				"carrier": 69
+			},
+			"minutesdelayed": {
+				"lateaircraft": 3043,
+				"weather": 1783,
+				"carrier": 4201,
+				"security": 45,
+				"total": 12139,
+				"nationalaviationsystem": 3067
+			}
+		},
+		"timet": {
+			"label": "2003/6",
+			"year": 2003,
+			"month": 6
+		},
+		"carrier": {
+			"code": "AA",
+			"name": "American Airlines Inc."
+		}
+	},
+	{
+		"airport": {
+			"code": "BWI",
+			"name": "Baltimore, MD: Baltimore/Washington International Thurgood Marshall"
+		},
+		"statistics": {
+			"flights": {
+				"cancelled": 1,
+				"timet": 490,
+				"total": 593,
+				"delayed": 101,
+				"diverted": 1
+			},
+			"ofdelays": {
+				"lateaircraft": 25,
+				"weather": 20,
+				"security": 0,
+				"nationalaviationsystem": 38,
+				"carrier": 18
+			},
+			"minutesdelayed": {
+				"lateaircraft": 1600,
+				"weather": 1332,
+				"carrier": 1058,
+				"security": 0,
+				"total": 5698,
+				"nationalaviationsystem": 1708
+			}
+		},
+		"timet": {
+			"label": "2003/6",
+			"year": 2003,
+			"month": 6
+		},
+		"carrier": {
+			"code": "AA",
+			"name": "American Airlines Inc."
+		}
+	}
+]
